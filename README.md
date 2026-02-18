@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Víctor Peraza</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
